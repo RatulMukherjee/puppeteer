@@ -1,0 +1,20 @@
+{
+    "invite_code": "simplylowrates",
+    "email":  "25",
+    "email-confirm":  "25",
+    "password":  "25",
+    "password-confirm":  "25",
+    "first-name":  "25",
+    "last-name":  "25",
+    "phone":  "25",
+    "address1":  "25",
+    "city":  "25",
+    "state":  "25",
+    "dob-month":  "25",
+    "dob-day":  "25",
+    "dob-year":  "25",
+    "zip":  "25",
+    "ssn":  "25",
+    "monthly-income":  "25",
+    "house-pay":  "25"
+}
